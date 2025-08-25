@@ -1,0 +1,26 @@
+[
+  {"title": "Inception", "year": 2010, "rating": 8.8, "genre": ["Action", "Sci-Fi"], "director": "Christopher Nolan"},
+  {"title": "The Dark Knight", "year": 2008, "rating": 9.0, "genre": ["Action", "Crime", "Drama"], "director": "Christopher Nolan"},
+  {"title": "Pulp Fiction", "year": 1994, "rating": 8.9, "genre": ["Crime", "Drama"], "director": "Quentin Tarantino"},
+  {"title": "The Matrix", "year": 1999, "rating": 8.7, "genre": ["Action", "Sci-Fi"], "director": "Lana Wachowski, Lilly Wachowski"},
+  {"title": "Fight Club", "year": 1999, "rating": 8.8, "genre": ["Drama"], "director": "David Fincher"}
+]
+
+1. Create an array of movie titles.
+2. Create an array of movies with a rating higher than 8.5.
+3. Sort the movies by rating in descending order.
+4. Create an array of movies released after the year 2000.
+5. Sort the movies by year of release in ascending order.
+6. Create an object that counts the number of movies for each genre.
+7. Check if all movies have a rating higher than 7.
+8. Calculate the average rating of all movies.
+9. Create an array of objects with only the title and rating of each movie.
+10. Check if there is at least one movie in the "Sci-Fi" genre.
+11. Check if there is at least one movie directed by "Quentin Tarantino".
+12. Check if all movies were released after 1990.
+13. Find the titles of all movies directed by "Christopher Nolan" that have a rating higher than 8.5, sorted by rating in descending order.
+14. Calculate the average rating of movies released before the year 2000 that belong to the "Drama" genre.
+15. Create an array of movie titles for movies with a rating higher than 8.5, sorted by their release year.
+16. Find the total number of genres covered by movies with a rating higher than 8.8.
+17. Check if there is at least one movie in the dataset with a rating higher than 9.
+18. Check if all movies directed by "Christopher Nolan" have a rating higher than 8.5.
