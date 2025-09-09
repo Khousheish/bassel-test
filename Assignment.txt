@@ -24,3 +24,19 @@
 16. Find the total number of genres covered by movies with a rating higher than 8.8.
 17. Check if there is at least one movie in the dataset with a rating higher than 9.
 18. Check if all movies directed by "Christopher Nolan" have a rating higher than 8.5.
+
+
+Assignment 2
+create a circle class that accepts and x, y and size attributes.
+The circle should move a random value between 1 and 5 in any direction on each tick of the draw function.
+create 20 of them in random locations on the canvas.
+References -> https://p5js.org/reference/ 
+
+Assignment 3
+Create 3 classes: Circle, Square and Triangle
+Create a base Thing class to handle the shared logic between these classes
+Make the shapes each move in a unique way.
+Circles can only move up and down randomly.
+Squares can only move left and right randomly.
+Triangles can only move on the diagonals.
+Make sure you handle collisions properly with the edges. I noticed that you didnt handle the case of when the circle hits the edge properly and part of the circle is exiting the canvas.
